@@ -1,0 +1,1 @@
+{ "name": "frost-fantasy", "version": "1.0.0", "private": true, "description": "Frost Fantasy – points-based sports, fantasy and lottery platform (zero dependencies)", "scripts": { "start": "node server/index.js", "test": "node test/api.test.js", "reset": "rm -f data/db.json" }, "engines": { "node": ">=18" } }
