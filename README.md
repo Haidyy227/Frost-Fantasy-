@@ -1,2 +1,0 @@
-# Frost-Fantasy-
-Betting App
